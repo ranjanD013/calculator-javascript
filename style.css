@@ -1,0 +1,36 @@
+.container {
+    text-align: center;
+    background-color: #213353;
+    width: 350px;
+    padding: 10px 0 30px 0;
+    margin: 0 auto;
+    border-radius: 10px;
+}
+
+.container input {
+    height: 35px;
+    font-size: 20px;
+    padding: 5px;
+    box-shadow: 0px 2px 3px #000;
+    border: 0px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+
+table {
+    margin: auto;
+}
+
+button {
+    font-size: 20px;
+    width: 59px;
+    height: 40px;
+    margin: 3px;
+    box-shadow: 0px 2px 3px #000;
+    border-radius: 5px;
+}
+
+h2 {
+    color: #fff;
+    font-size: 20px;
+}
